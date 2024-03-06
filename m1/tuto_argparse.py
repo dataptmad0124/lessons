@@ -1,3 +1,11 @@
+# Para ejecutar este codigo:
+# python tuto_argparse.py -o A -d High -f 30 
+
+# o bien:
+# python tuto_argparse.py --origin A --destination High --filter 30 
+
+
+
 import argparse
 import pandas as pd
 
