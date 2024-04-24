@@ -1,6 +1,6 @@
 # Tableau Software
 
-![Image](https://github.com/ih-datapt-mad/dataptmad0223_lessons/blob/main/m2/img/tableau_logo.png)
+![Image](https://github.com/dataptmad0124/lessons/tree/main/m2/images/tableau_logo.png)
 
 Tableau products query relational databases, online analytical processing cubes, cloud databases, and spreadsheets to generate graph-type data visualizations. The software can also extract, store, and retrieve data from an in-memory data engine.
 
